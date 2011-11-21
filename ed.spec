@@ -1,7 +1,7 @@
 #specfile originally created for Fedora, modified for Moblin Linux
 Summary: The GNU line editor
 Name: ed
-Version: 1.4
+Version: 1.5
 Release: 1
 License: GPLv3+
 Group:  Applications/Text
