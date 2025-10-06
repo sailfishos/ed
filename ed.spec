@@ -1,7 +1,7 @@
 #specfile originally created for Fedora, modified for Moblin Linux
 Summary: The GNU line editor
 Name: ed
-Version: 1.18
+Version: 1.22.2
 Release: 1
 License: GPLv2
 Source: %{name}-%{version}.tar.gz
@@ -41,7 +41,6 @@ won't use it.
 rm -rf $RPM_BUILD_ROOT%{_infodir}/*
 
 %files
-%defattr(-,root,root)
 %license COPYING
 %doc ChangeLog NEWS README AUTHORS
 %{_bindir}/*
